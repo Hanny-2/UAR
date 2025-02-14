@@ -31,6 +31,7 @@ We use **AIMv1** to extract image features. The original code can be found at [A
 
 We made certain modifications to simplify the environment configuration. The modified version is stored in the `UAR/aim` directory.
 
+The wget url may be changed and you can find "aim_3b_5bimgs_attnprobe_backbone" and "aim_3b_5bimgs_attnprobe_head_best_layers.pth" at https://github.com/apple/ml-aim/tree/main/aim-v1.
 ```bash
 cd UAR
 
